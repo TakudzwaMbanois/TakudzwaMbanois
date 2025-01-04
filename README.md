@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TakudzwaMbanois
-- 👀 I’m interested in Python development and data science
+- 👀 I’m interested in Solving Problems 
 - 🌱 I’m currently learning python , datascience and flask development
   
 
