@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TakudzwaMbanois
 - 👀 I’m interested in Solving Problems 
-- 🌱 I’m currently learning python , datascience and flask development
+- 🌱 I’m currently learning python , problem solving and algorithms.
   
 
 
